@@ -25,7 +25,8 @@
 }
 
 - (void)viewDidAppear:(BOOL)animated {
-    [self buildIntro];
+    // TODO: waiting for the correct tutorials
+    //[self buildIntro];
 }
 
 -(void)buildIntro{
