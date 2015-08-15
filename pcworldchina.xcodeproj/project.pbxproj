@@ -12,8 +12,6 @@
 		A38AF5861B57DD23009396A1 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF5851B57DD23009396A1 /* FirstViewController.m */; };
 		A38AF5891B57DD23009396A1 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF5881B57DD23009396A1 /* SecondViewController.m */; };
 		A38AF58C1B57DD23009396A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A38AF58A1B57DD23009396A1 /* Main.storyboard */; };
-		A38AF58E1B57DD23009396A1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A38AF58D1B57DD23009396A1 /* Images.xcassets */; };
-		A38AF5911B57DD23009396A1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A38AF58F1B57DD23009396A1 /* LaunchScreen.xib */; };
 		A38AF59D1B57DD23009396A1 /* pcworldchinaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF59C1B57DD23009396A1 /* pcworldchinaTests.m */; };
 		A38AF6061B57DDF9009396A1 /* blackArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A38AF5F11B57DDF9009396A1 /* blackArrow.png */; };
 		A38AF6071B57DDF9009396A1 /* blackArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A38AF5F21B57DDF9009396A1 /* blackArrow@2x.png */; };
@@ -34,6 +32,7 @@
 		A38AF61A1B57E411009396A1 /* CustomWebviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF6191B57E411009396A1 /* CustomWebviewController.m */; };
 		A38AF61D1B57ED7E009396A1 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF61C1B57ED7E009396A1 /* ThirdViewController.m */; };
 		A38AF6201B57EE51009396A1 /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF61F1B57EE51009396A1 /* FourthViewController.m */; };
+		A3E719991B7CF4F00090E35F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3E719981B7CF4F00090E35F /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,8 +56,6 @@
 		A38AF5871B57DD23009396A1 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		A38AF5881B57DD23009396A1 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		A38AF58B1B57DD23009396A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A38AF58D1B57DD23009396A1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		A38AF5901B57DD23009396A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		A38AF5961B57DD23009396A1 /* pcworldchinaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pcworldchinaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38AF59B1B57DD23009396A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A38AF59C1B57DD23009396A1 /* pcworldchinaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pcworldchinaTests.m; sourceTree = "<group>"; };
@@ -88,6 +85,7 @@
 		A38AF61C1B57ED7E009396A1 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 		A38AF61E1B57EE51009396A1 /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
 		A38AF61F1B57EE51009396A1 /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		A3E719981B7CF4F00090E35F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,8 +146,7 @@
 				A38AF61E1B57EE51009396A1 /* FourthViewController.h */,
 				A38AF61F1B57EE51009396A1 /* FourthViewController.m */,
 				A38AF58A1B57DD23009396A1 /* Main.storyboard */,
-				A38AF58D1B57DD23009396A1 /* Images.xcassets */,
-				A38AF58F1B57DD23009396A1 /* LaunchScreen.xib */,
+				A3E719981B7CF4F00090E35F /* Images.xcassets */,
 				A38AF57D1B57DD23009396A1 /* Supporting Files */,
 			);
 			path = pcworldchina;
@@ -310,9 +307,9 @@
 				A38AF58C1B57DD23009396A1 /* Main.storyboard in Resources */,
 				A38AF6061B57DDF9009396A1 /* blackArrow.png in Resources */,
 				A38AF6101B57DDF9009396A1 /* HeaderImage.png in Resources */,
-				A38AF5911B57DD23009396A1 /* LaunchScreen.xib in Resources */,
 				A38AF60E1B57DDF9009396A1 /* CheckMarkWhite.png in Resources */,
 				A38AF60D1B57DDF9009396A1 /* whiteArrow@2x.png in Resources */,
+				A3E719991B7CF4F00090E35F /* Images.xcassets in Resources */,
 				A38AF60B1B57DDF9009396A1 /* grayArrow@2x.png in Resources */,
 				A38AF6091B57DDF9009396A1 /* blueArrow@2x.png in Resources */,
 				A38AF6081B57DDF9009396A1 /* blueArrow.png in Resources */,
@@ -321,7 +318,6 @@
 				A38AF60C1B57DDF9009396A1 /* whiteArrow.png in Resources */,
 				A38AF6111B57DDF9009396A1 /* Toronto, ON.jpg in Resources */,
 				A38AF60A1B57DDF9009396A1 /* grayArrow.png in Resources */,
-				A38AF58E1B57DD23009396A1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,14 +374,6 @@
 				A38AF58B1B57DD23009396A1 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		A38AF58F1B57DD23009396A1 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A38AF5901B57DD23009396A1 /* Base */,
-			);
-			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -475,6 +463,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = pcworldchina/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -485,6 +474,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = pcworldchina/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -544,6 +534,7 @@
 				A38AF5A21B57DD23009396A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A38AF5A31B57DD23009396A1 /* Build configuration list for PBXNativeTarget "pcworldchinaTests" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +543,7 @@
 				A38AF5A51B57DD23009396A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
