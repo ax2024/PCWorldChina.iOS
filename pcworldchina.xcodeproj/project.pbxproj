@@ -33,6 +33,7 @@
 		A38AF61D1B57ED7E009396A1 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF61C1B57ED7E009396A1 /* ThirdViewController.m */; };
 		A38AF6201B57EE51009396A1 /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF61F1B57EE51009396A1 /* FourthViewController.m */; };
 		A3E719991B7CF4F00090E35F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3E719981B7CF4F00090E35F /* Images.xcassets */; };
+		A3E7199C1B8624650090E35F /* FifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E7199B1B8624650090E35F /* FifthViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,8 @@
 		A38AF61E1B57EE51009396A1 /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
 		A38AF61F1B57EE51009396A1 /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
 		A3E719981B7CF4F00090E35F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A3E7199A1B8624650090E35F /* FifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthViewController.h; sourceTree = "<group>"; };
+		A3E7199B1B8624650090E35F /* FifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +148,8 @@
 				A38AF61C1B57ED7E009396A1 /* ThirdViewController.m */,
 				A38AF61E1B57EE51009396A1 /* FourthViewController.h */,
 				A38AF61F1B57EE51009396A1 /* FourthViewController.m */,
+				A3E7199A1B8624650090E35F /* FifthViewController.h */,
+				A3E7199B1B8624650090E35F /* FifthViewController.m */,
 				A38AF58A1B57DD23009396A1 /* Main.storyboard */,
 				A3E719981B7CF4F00090E35F /* Images.xcassets */,
 				A38AF57D1B57DD23009396A1 /* Supporting Files */,
@@ -335,6 +340,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3E7199C1B8624650090E35F /* FifthViewController.m in Sources */,
 				A38AF6131B57DDF9009396A1 /* MYIntroductionPanel.m in Sources */,
 				A38AF61A1B57E411009396A1 /* CustomWebviewController.m in Sources */,
 				A38AF5891B57DD23009396A1 /* SecondViewController.m in Sources */,

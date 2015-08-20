@@ -16,7 +16,7 @@
 @implementation FirstViewController
 
 - (void)viewDidLoad {
-    [super initWithUrl:@"http://image.baidu.com"];
+    [super initWithUrl:@"http://www.pcworldchina.com.cn/"];
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }

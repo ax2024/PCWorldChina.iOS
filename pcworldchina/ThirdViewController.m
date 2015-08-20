@@ -11,7 +11,7 @@
 @implementation ThirdViewController
 
 - (void)viewDidLoad {
-    [super initWithUrl:@"http://www.amazon.com"];
+    [super initWithUrl:@"http://www.pcworldchina.com.cn/?cat=6"];
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }

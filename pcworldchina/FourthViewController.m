@@ -15,7 +15,7 @@
 @implementation FourthViewController
 
 - (void)viewDidLoad {
-    [super initWithUrl:@"http://www.jd.com"];
+    [super initWithUrl:@"http://www.pcworldchina.com.cn/?cat=5"];
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 }
